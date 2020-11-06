@@ -1,0 +1,12 @@
+[submodule "pack/general/start/vim-surround"]
+	path = pack/general/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/general/start/vim-repeat"]
+	path = pack/general/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "pack/general/start/vim-vinegar"]
+	path = pack/general/start/vim-vinegar
+	url = https://github.com/tpope/vim-vinegar.git
+[submodule "pack/general/start/vim-commentary"]
+	path = pack/general/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
